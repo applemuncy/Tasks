@@ -21,6 +21,12 @@ public class TaskListAdapter
 		"eight",
 		"nine",
 		"ten",
+        "eleven",
+        "twelve",
+         "thirteen",
+            "fourteen",
+            "fifteen",
+
 		"Ah...ah...ah!"
 	};
 
